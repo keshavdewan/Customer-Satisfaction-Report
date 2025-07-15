@@ -110,3 +110,4 @@ The path forward requires a targeted strategy that addresses these core weakness
 #### [Onyx Data Challenge July 2025](https://datadna.onyxdata.co.uk/challenges/july-2025-datadna-customer-satisfaction-and-loyalty-analytics-challenge/)
 #### [ZoomChart Mini Challenge](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data-july-2025)
 #### [Medium Link](https://medium.com/@kdrokz/customer-satisfaction-report-0842b2d2607a)
+#### [Power BI Dashboard](https://github.com/keshavdewan/Customer-Satisfaction-Report/blob/main/Customer%20Satisfaction%20Report.pbix)
